@@ -23,7 +23,7 @@
 
 ***
 
-#### My latests projects on action!:
+#### My latests projects in action!:
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
