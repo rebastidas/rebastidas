@@ -31,6 +31,11 @@
 #### My latests projects in action:
 
 <!-- YOUTUBE:START -->
+- [Project 4 - Network](https://www.youtube.com/watch?v=oKoKGhsmBJc)
+- [Project | Mail-Django](https://www.youtube.com/watch?v=KLlcimX5L84)
+- [Project | Wiki-Django](https://www.youtube.com/watch?v=9-tSt4Qf2dk)
+- [Project 0 - HTML CSS SCSS](https://www.youtube.com/watch?v=PH4Cp_o8o8g)
+- [Project 1 - BookApp using Flask and Python](https://www.youtube.com/watch?v=3HyQqzfMyuQ)
 <!-- YOUTUBE:END -->
 
 <br />
