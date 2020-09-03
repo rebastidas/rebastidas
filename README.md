@@ -2,11 +2,11 @@
 
 ***
 
-⋅⋅* It's nice to have you here!
+- It's nice to have you here!
 
-⋅⋅* I am originally from Venezuela but I'm living in Chile,
+- I am originally from Venezuela but I'm living in Chile,
 
-⋅⋅* I am trying become in a full-stack developer
+- I am trying become in a full-stack developer
 
 ***
 
